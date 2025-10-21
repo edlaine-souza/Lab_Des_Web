@@ -1,0 +1,2626 @@
+[
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos",
+    "author": "CORMEN, T. H. et al.",
+    "publisher": "Campus",
+    "year": 2012
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos: Lógica para desenvolvimento de programação de computadores",
+    "author": "MANZANO, J. A. N. G; OLIVEIRA, J. F.",
+    "publisher": "Érica",
+    "year": 2009
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos e Programação: Teoria e Prática",
+    "author": "MEDINA, M., FERTIG, C.",
+    "publisher": "Novatec",
+    "year": 2006
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Como programar",
+    "author": "DEITEL, H; DEITEL, P. C.",
+    "publisher": "Pearson",
+    "year": 2011
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos e programação de computadores",
+    "author": "BIANCHI, F. et al.",
+    "publisher": "Campus",
+    "year": 2012
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos e Lógica de Programação",
+    "author": "SOUZA, M. A. F. et al.",
+    "publisher": "Cengage Learning",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Introdução à Programação Com Python: Algoritmos e Lógica De Programação para iniciantes",
+    "author": "MENEZES, O.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "CSS - técnicas profissionais para um layout moderno",
+    "author": "MEYER, E. S.",
+    "publisher": "Bookman",
+    "year": 2011
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "Aprendendo JavaScript",
+    "author": "POWERS, S.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "HTML5, CSS e JavaScript",
+    "author": "PETRUCELLI, E. E.",
+    "publisher": "NT Editora",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "HTML e CSS: Projete e Construa Websites",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python",
+    "author": "GRINBERG, M.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "XHTML/CSS: criação de páginas web (Informática)",
+    "author": "GOMES, A. L.",
+    "publisher": "Editora Senac",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante",
+    "author": "QUIERELLI, D. A.",
+    "publisher": "Clube dos Autores",
+    "year": 2012
+  },
+  {
+    "semester": 1,
+    "course": "Desenvolvimento Web I",
+    "title": "HTML, XHTML e CSS Para Leigos",
+    "author": "TITTEL, E., NOBLE, J.",
+    "publisher": "Alta Books",
+    "year": 2014
+  },
+  {
+    "semester": 1,
+    "course": "Design Digital",
+    "title": "Sintaxe da linguagem visual",
+    "author": "DONDIS, D. A.",
+    "publisher": "Martins Fontes",
+    "year": 2015
+  },
+  {
+    "semester": 1,
+    "course": "Design Digital",
+    "title": "Gestalt do Objeto: sistema de leitura visual da forma",
+    "author": "GOMES FILHO, J.",
+    "publisher": "Escrituras",
+    "year": 2013
+  },
+  {
+    "semester": 1,
+    "course": "Design Digital",
+    "title": "Usabilidade na Web: projetando websites com qualidade",
+    "author": "NILSEN, J; LORANGER, H.",
+    "publisher": "Elsevier",
+    "year": 2007
+  },
+  {
+    "semester": 1,
+    "course": "Design Digital",
+    "title": "Estudo Dirigido de Coreldraw X5 Em Português",
+    "author": "PRIMO, L.",
+    "publisher": "Érica",
+    "year": 2010
+  },
+  {
+    "semester": 1,
+    "course": "Design Digital",
+    "title": "Estudo Dirigido de Adobe Photoshop Cs5 Em Português- Para Windows",
+    "author": "PRIMO, L.",
+    "publisher": "Érica",
+    "year": 2011
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Princípios de Análise e Projeto de Sistemas com UML",
+    "author": "BEZERRA, Eduardo",
+    "publisher": "Elsevier",
+    "year": 2015
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Engenharia de Software",
+    "author": "PRESSMAN, Roger; MAXIM, Bruce",
+    "publisher": "McGraw Hill Brasil",
+    "year": 2016
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Engenharia De Software",
+    "author": "SOMMERVILLE, Ian",
+    "publisher": "Pearson Brasil",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Utilizando UML e padrões",
+    "author": "LARMAN, Craig.",
+    "publisher": "Bookman",
+    "year": 2007
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Engenharia de software e sistemas de informação",
+    "author": "REZENDE, Denis Alcides",
+    "publisher": "Brasport",
+    "year": 2005
+  },
+  {
+    "semester": 1,
+    "course": "Engenharia de Software I",
+    "title": "Análise e Projeto de Sistemas de Informação Orientados a Objetos",
+    "author": "WASLAWICK Raul",
+    "publisher": "Elsevier",
+    "year": 2010
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo o Mais",
+    "author": "DATE, C. J.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Sistemas de Banco de Dados: Fundamentos e Aplicações",
+    "author": "ELMASRI, R.; NAVATHE, S. B.",
+    "publisher": "Pearson",
+    "year": 2019
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Projeto de Banco de Dados",
+    "author": "HEUSER, C. A.",
+    "publisher": "Bookman",
+    "year": 2010
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Projeto de Bancos de Dados Relacionais: Teoria e Prática",
+    "author": "HARRINGTON, J. L.",
+    "publisher": "Campus",
+    "year": 2002
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Banco de dados: projeto e implementação",
+    "author": "MACHADO, F. N. R.",
+    "publisher": "Érica",
+    "year": 2008
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Projeto e Modelagem de Banco de Dados",
+    "author": "NADEAU, Tom et al.",
+    "publisher": "Elsevier",
+    "year": 2013
+  },
+  {
+    "semester": 1,
+    "course": "Modelagem de Banco de Dados",
+    "title": "Sistema de banco de dados",
+    "author": "SILBERSCHATZ, Abraham; SUNDARSHAN, S.; KORTH, Henry F.",
+    "publisher": "Elsevier",
+    "year": 2016
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Arquitetura de Sistemas Operacionais",
+    "author": "MACHADO, F. B.; MAIA, L. P.",
+    "publisher": "LTC",
+    "year": 2013
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Sistemas Operacionais Modernos",
+    "author": "TANENBAUM, A. S.; BOS, H.",
+    "publisher": "Pearson",
+    "year": 2016
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Sistemas Distribuídos: princípios e paradigmas",
+    "author": "TANENBAUM, A. S.; STEEN, M. V.",
+    "publisher": "Pearson",
+    "year": 2007
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Fundamentos de Sistemas Operacionais",
+    "author": "SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G.",
+    "publisher": "LTC",
+    "year": 2017
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Sistemas Distribuídos: princípios e paradigmas",
+    "author": "TANENBAUM, A.  S. et al.",
+    "publisher": "Prentice Hall",
+    "year": 2007
+  },
+  {
+    "semester": 1,
+    "course": "Sistemas Operacionais e Redes de Computadores",
+    "title": "Sistemas distribuídos: conceitos e projeto",
+    "author": "COULOURIS, George F. et al.",
+    "publisher": "Bookman",
+    "year": 2007
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Programação orientada a objetos: Conceitos e técnicas",
+    "author": "FURGERI, S.",
+    "publisher": "Erica",
+    "year": 2015
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Introdução à Orientação a Objetos com C++ e Python: Uma abordagem prática",
+    "author": " NASCIMENTO JR. O. S.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Use a Cabeça! Java",
+    "author": "SIERRA, K. BATES, B.",
+    "publisher": "O’Rilly",
+    "year": 2005
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos",
+    "author": "BHARGAVA, A. Y.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Problemas Clássicos de Ciência da Computação com Python",
+    "author": "KOPEC, D.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Código Limpo: Habilidades Práticas do Agile Software",
+    "author": "MARTIN, Robert C.",
+    "publisher": "Alta Books",
+    "year": 2012
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Python Fluente: Programação Clara, Concisa e Eficaz",
+    "author": "RAMALHO, L.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente",
+    "author": "SCHILDT, H.",
+    "publisher": "Bookman",
+    "year": 2015
+  },
+  {
+    "semester": 2,
+    "course": "Técnicas de Programação I",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Java para web: Desenvolvimento de aplicações",
+    "author": "ALVES, W. P.",
+    "publisher": "Érica",
+    "year": 2015
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Aprenda Java EE 8: Aplicações Para Web com Spring Mvc e Hibernate",
+    "author": "ANDRADE S. S.",
+    "publisher": "SENAI-SP",
+    "year": 2018
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Python Cookbook: Receitas para dominar Python",
+    "author": "BEAZLEY D.; JONES, B. K.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "HTML5 e CSS3: Guia Prático e Visual",
+    "author": "CASTRO, E., HYSLOP, B.",
+    "publisher": "Alta Books",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Introdução ao HTML5 e CSS3",
+    "author": "CLARK, R., MURPHY, C., STUDHOME, O.",
+    "publisher": "Alta Books",
+    "year": 2014
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "HTML e CSS: Projete e Construa Websites",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "O Guia do Mochileiro Python: Melhores Práticas Para Desenvolvimento",
+    "author": "KENNETH R., K.; SCHLUSSER, T.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Construindo APIs REST com Node.js",
+    "author": "PEREIRA, C. R.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "JSON Básico: Conheça o formato de dados preferido da web",
+    "author": "SMITH, B.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Python e Django: Desenvolvimento web Moderno e ágil",
+    "author": "MACIEL, F. M. B.",
+    "publisher": "Alta Books",
+    "year": 2020
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em Python, Começando do Zero",
+    "author": "MELÉ, A.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Bootstrap 4: Conheça a biblioteca front-end mais utilizada no mundo",
+    "author": "SOUZA, N.",
+    "publisher": "Casa do Código",
+    "year": 2018
+  },
+  {
+    "semester": 2,
+    "course": "Desenvolvimento Web II",
+    "title": "Desenvolvendo com Laravel: Um Framework Para a Construção de Aplicativos PHP Modernos",
+    "author": "STAUFFER, M.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 2,
+    "course": "Matemática para Computação",
+    "title": "Fundamentos Matemáticos para a ciência da computação: Matemática Discreta e Suas Aplicações",
+    "author": "GERSTING, J. L.",
+    "publisher": "LTC",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Matemática para Computação",
+    "title": "Matemática Discreta para Computação e Informática",
+    "author": "MENEZES, P. B.",
+    "publisher": "Bookman",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Matemática para Computação",
+    "title": "Matemática Discreta: Uma introdução",
+    "author": "SCHEINERMAN, E.",
+    "publisher": "Cengage Learning",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Matemática para Computação",
+    "title": "Matemática Discreta para Ciências da Computação",
+    "author": "STEIN, C. DRYSDALE.R.L., BOGART, K.",
+    "publisher": "Pearson Universidades",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de Software",
+    "author": "PRESSMAN, Roger; MAXIM, Bruce",
+    "publisher": "McGraw Hill Brasil",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia De Software",
+    "author": "SOMMERVILLE, Ian",
+    "publisher": "Pearson Brasil",
+    "year": 2019
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de Software: conceitos e práticas",
+    "author": "WAZLAWICK, R. S.",
+    "publisher": "Elsevier",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de Software na Prática",
+    "author": "LENGHOLM JR. Hélio",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "UML 2 - uma abordagem prática",
+    "author": "GUEDES, G. T. A.",
+    "publisher": "Novatec",
+    "year": 2011
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de Software: qualidade e produtividade com tecnologia",
+    "author": "HIRAMA, K.",
+    "publisher": "Elsevier",
+    "year": 2011
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de software",
+    "author": "PAULA FILHO, W. P.",
+    "publisher": "LTC",
+    "year": 2010
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Engenharia de software: Teoria e prática",
+    "author": "PETERS, James",
+    "publisher": "Campus",
+    "year": 2001
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Metodologias Ágeis: Engenharia de Software sob medida",
+    "author": "SBROCCO, J. H. T. C.; MACEDO, P. C.",
+    "publisher": "Érica",
+    "year": 2012
+  },
+  {
+    "semester": 2,
+    "course": "Engenharia de Software II",
+    "title": "Fundamentos de Engenharia de Software",
+    "author": "TSUI, F.; KARAM, O.",
+    "publisher": "LTC",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Introdução a sistemas de bancos de dados",
+    "author": "DATE, C. J.",
+    "publisher": "Elsevier: Campus",
+    "year": 2004
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Sistemas de Banco de Dados",
+    "author": "ELMASRI, R.; NAVATHE, S. B.",
+    "publisher": "Pearson",
+    "year": 2018
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Sistema de banco de dados",
+    "author": "SILBERSCHATZ, A.; SUNDARSHAN, S.; KORTH, H. F.",
+    "publisher": "Elsevier Brasil",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Aprendendo SQL",
+    "author": "BEAULIEU, A.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Fundamentos de Sistemas de Gerência de Banco de Dados",
+    "author": "GILLENSON, M. L.",
+    "publisher": "LTC",
+    "year": 2006
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Banco de Dados: Projeto e Implementação",
+    "author": "MACHADO, F. N. R.",
+    "publisher": "Érica",
+    "year": 2005
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Microsoft SQL Server 2005: Guia do Desenvolvedor",
+    "author": "OTEY, M; OTEY, D.",
+    "publisher": "Ciência Moderna",
+    "year": 2007
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Sistemas de Gerenciamento de Bancos de Dados",
+    "author": "RAMAKRISHNAN, R.; GEHRKE, J.",
+    "publisher": "Bookman",
+    "year": 2008
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Sistemas de Banco de Dados: Projeto, Implementação e Gerenciamento",
+    "author": "ROB, P; CORONEL, C.",
+    "publisher": "Cencage Learning",
+    "year": 2011
+  },
+  {
+    "semester": 2,
+    "course": "Banco de Dados – Relacional",
+    "title": "Projeto e Modelagem de Bancos de Dados",
+    "author": "TEOREY, T; LIGHTSTONE, S; NADEAU, T.",
+    "publisher": "Campus",
+    "year": 2006
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de Dados",
+    "author": "ASCENCIO, A. F. G.",
+    "publisher": "Pearson Brasil",
+    "year": 2011
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de Dados",
+    "author": "EDELWEISS, N; GALANTE, R.",
+    "publisher": "Bookman",
+    "year": 2009
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de dados fundamentais: Conceitos e Aplicações",
+    "author": "PEREIRA, S. L.",
+    "publisher": "Érica",
+    "year": 2009
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Algoritmos",
+    "author": "CORMEN, T. H. et al.",
+    "publisher": "Campus",
+    "year": 2012
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de Dados. Série: Livros Didáticos Informática UFRGS",
+    "author": "EDELWEISS, N.; GALANTE, R.",
+    "publisher": "Bookman",
+    "year": 2008
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de Dados & Algoritmos em Java",
+    "author": "GOODRICH, M. T.; TAMASSIA, R.",
+    "publisher": "Bookman",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Objetos, abstração, estrutura de dados e projeto",
+    "author": "KOFFMANN, E. B.",
+    "publisher": "LTC",
+    "year": 2008
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Lógica de Programação e Estruturas de Dados",
+    "author": "PUGA, S.; RISSETTI, G.",
+    "publisher": "Pearson",
+    "year": 2016
+  },
+  {
+    "semester": 2,
+    "course": "Estrutura de Dados",
+    "title": "Estruturas de Dados Usando C",
+    "author": "TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J.",
+    "publisher": "Pearson",
+    "year": 1995
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos",
+    "author": "GAMMA, E. et al.",
+    "publisher": "Bookman",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Use a Cabeça! Padrões de Projetos",
+    "author": "FREEMAN, E.; FREEMAN E.",
+    "publisher": "Alta Books",
+    "year": 2007
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Desenvolvimento Guiado Por Testes",
+    "author": "KENT, B.",
+    "publisher": "Bookman",
+    "year": 2010
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Aprendendo Padrões de Projeto em PHP: Programação Orientada a Objetos Para Projetos Dinâmicos",
+    "author": "SANDERS, W.",
+    "publisher": "Novatec",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "DOMAIN-DRIVEN DESIGN",
+    "author": "EVANS, E.",
+    "publisher": "Alta Books",
+    "year": 2020
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Trabalho Eficaz Com Código Legado",
+    "author": "FEATHERS, M. C.",
+    "publisher": "Bookman",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Aprendendo Padrões de Projeto em Python: Tire Proveito da Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver Problemas do Mundo Real em Arquitetura e Design de Software",
+    "author": "GIRIDHAR, C.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Técnicas de Programação II",
+    "title": "Design Patterns com Java: Projeto Orientado a Objetos guiado por Padrões",
+    "author": "GUERRA, E.",
+    "publisher": "Casa do Código",
+    "year": 2014
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software",
+    "author": "FOWLER, S.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em Python, Começando do Zero",
+    "author": "MELÉ, A.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript",
+    "author": "PERCIVAL, H. J. W.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Aprendendo Node: Usando JavaScript no Servidor",
+    "author": "POWERS, S.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Programação web com Node e Express: Beneficiando-se da Stack JavaScript",
+    "author": "BROWN, E.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Pro Node.Js para Desenvolvedores",
+    "author": "IHRIG, C. J.",
+    "publisher": "Ciência Moderna",
+    "year": 2014
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web III",
+    "title": "Introdução ao SEO: Seu Guia Rápido às Práticas Eficientes de SEO",
+    "author": "SHENOY, A.; PRABHU A.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Álgebra Linear com Aplicações",
+    "author": "ANTON H., RORRES, C.",
+    "publisher": "Bookman",
+    "year": 2012
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Álgebra Linear",
+    "author": "FRANCO, N.",
+    "publisher": "Pearson",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Álgebra Linear",
+    "author": "STEINBRUCH, A., WINTERLE, P.",
+    "publisher": "Pearson",
+    "year": 1995
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Data Science do Zero: Primeiras Regras com o Python",
+    "author": "GRUS, J.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Álgebra Linear",
+    "author": "LIPSCHUTZ, S., LIPSON, M.",
+    "publisher": "Bookman",
+    "year": 2011
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Álgebra Linear com Python: Aprenda na prática os principais conceitos; Série: Cientistas de Dados",
+    "author": "SANTOS, R.F.V.",
+    "publisher": "[S.l.: s.n.]",
+    "year": 2018
+  },
+  {
+    "semester": 3,
+    "course": "Álgebra Linear",
+    "title": "Guia Mangá álgebra linear",
+    "author": "TAKAHASHI, S.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Gerenciamento Ágil de Projetos: aplicações em produtos inovadores",
+    "author": "AMARAL, D. C. et al.",
+    "publisher": "Saraiva",
+    "year": 2011
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "PMO Ágil: Escritório Ágil de Gerenciamento de Projetos",
+    "author": "CRUZ, F.",
+    "publisher": "BRASPORT",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia",
+    "author": "CRUZ, F.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Scrum e PMBOK unidos no Gerenciamento de Projetos",
+    "author": "CRUZ, F.",
+    "publisher": "Brasport",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Guia de Prática Ágil",
+    "author": "PMI",
+    "publisher": "Project Management Institute",
+    "year": 2018
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBoK)",
+    "author": "PMI",
+    "publisher": "Project Management Institute",
+    "year": 2018
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Gerenciamento de Projetos: Uma Abordagem Sistêmica para Planejamento, Programação e Controle",
+    "author": "KERZNER, H.",
+    "publisher": "Blucher",
+    "year": 2011
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Kanban and Scrum obtendo o melhor de ambos",
+    "author": "KNIBERG, S., M.",
+    "publisher": "C4Media Inc",
+    "year": 2009
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Scrum: guia prático",
+    "author": "SUTHERLAND, J. J.",
+    "publisher": "Sextante",
+    "year": 2020
+  },
+  {
+    "semester": 3,
+    "course": "Gestão Ágil de Projetos de Software",
+    "title": "Fundamentos de gerenciamento de projetos",
+    "author": "VALLE, André B. do et al.",
+    "publisher": "FGV",
+    "year": 2014
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "MongoDB: Construa novas aplicações com novas tecnologias",
+    "author": "BOAGLIO, Fernando",
+    "publisher": "Casa do Código",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "Sistemas de Banco de Dados: Fundamentos e Aplicações",
+    "author": "ELMASRI, R.; NAVATHE, S. B.",
+    "publisher": "Pearson",
+    "year": 2019
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "Nosql Essencial: Um Guia Conciso Para o Mundo Emergente da Persistência Poliglota",
+    "author": "SADALAGE, P.; FOWLER, M.",
+    "publisher": "Novatec",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "Data Warehouse: conceitos, tecnologias, implementação e gerenciamento",
+    "author": "SINGH, Harry",
+    "publisher": "Makron Books",
+    "year": 2001
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "Refatorando Aplicativos SQL",
+    "author": "FAROULT, Stephane",
+    "publisher": "Alta Books",
+    "year": 2009
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "NoSQL: Como armazenar os dados de uma aplicação moderna",
+    "author": "PANIZ, D.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Banco de Dados - Não Relacional",
+    "title": "Desvendando o Mongodb",
+    "author": "SOUZA, M.",
+    "publisher": "Ciência Moderna",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Interação Humano-Computador",
+    "author": "BARBOSA, S.D.J.; SILVA, B.S.",
+    "publisher": "Elsevier-Campus",
+    "year": 2010
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Interação Humano Computador",
+    "author": "BENYON, D.",
+    "publisher": "Pearson Prentice Hall",
+    "year": 2011
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Arquitetura da informação: uma abordagem prática para o tratamento de conteúdo e interfaces em ambientes informacionais digitais",
+    "author": "CAMARGO, L. S. A.; VIDOTTI, S. A. B. G.",
+    "publisher": "Altas Books",
+    "year": 2019
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações",
+    "author": "CYBIS, W.; BETIOL, A. H. e FAUST, R.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis",
+    "author": "LOWDERMILK, T.",
+    "publisher": "Novatec",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Design Thinking e Thinking Design: Metodologia, ferramentas e uma reflexão sobre o tema",
+    "author": "MELO, A.; ABELHEIRA, R.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Aprendendo Material Design: domine o Material Design e crie Interfaces bonitas e animadas para aplicativos móveis e web",
+    "author": "MEW, k.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 3,
+    "course": "Interação Humano Computador",
+    "title": "Usabilidade Móvel",
+    "author": "NIELSEN, J.; BUDIU, R.",
+    "publisher": "Campus",
+    "year": 2013
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "Business Result: Elementary. Student Book Pack",
+    "author": "HUGES, John et al.",
+    "publisher": "Oxford University Press",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "Business Start-up: Student Book 1",
+    "author": "IBBOTSON, Mark; STEPHENS, Bryan",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "American English File: Student’s Book 1",
+    "author": "OXENDEN, Clive; LATHAM-KOENIG, Christina",
+    "publisher": "Oxford University Press",
+    "year": 2018
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "Teaching English to Speakers of other languages",
+    "author": "CARTER, Ronald.; NUNAN, David",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "In Company 3.0 Elementary Level Student’s Book Pack",
+    "author": "CLARKE, Simon",
+    "publisher": "MacMillan Publishers Ltd",
+    "year": 2015
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom",
+    "author": "LONGMAN",
+    "publisher": "Pearson Education do Brasil",
+    "year": 2009
+  },
+  {
+    "semester": 3,
+    "course": "Inglês I",
+    "title": "Essential Grammar in Use CD-Rom with answers",
+    "author": "MURPHY, Raymond",
+    "publisher": "Cambridge",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável",
+    "author": "HUMBLE J; PRIKLANDNICKI R.",
+    "publisher": "Bookman",
+    "year": 2013
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Jornada DevOps: Unindo Cultura Ágil, Lean e Tecnologia Para Entrega de Software Com Qualidade",
+    "author": "MUNIZ, A.; et al.",
+    "publisher": "Brasport",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "DevOps na prática: entrega de software confiável e automatizada",
+    "author": "SATO D.",
+    "publisher": "Casa do Código",
+    "year": 2014
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Entrega contínua em Android: Como automatizar a distribuição de apps",
+    "author": "SILVA, R.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "DevOps nativo de nuvem com Kubernetes",
+    "author": "ARUNDEL, J. DOMINGUS, J.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos",
+    "author": "MORAES, G.",
+    "publisher": "Casa do Código",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Integração Contínua com Jenkins",
+    "author": "PIRES, A.; MILITÃO, J.",
+    "publisher": "Casa do Código",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Descomplicando o Docker",
+    "author": "VITALINO, J. F. N.; CASTRO, M. A. N.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Integração e Entrega Contínua",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Programação web com Node e Express: Beneficiando-se da stack JavaScript",
+    "author": "BROWN, E.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software",
+    "author": "FOWLER, S.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis",
+    "author": "LOWDERMILK, T.",
+    "publisher": "Novatec",
+    "year": 2013
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript",
+    "author": "PERCIVAL, H. J. W.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "HTML e CSS: Projete e Construa Websites",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia",
+    "author": "CRUZ, F.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável",
+    "author": "HUMBLE, J.; FARLEY, D.",
+    "publisher": "Bookman",
+    "year": 2014
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Segurança Para Desenvolvedores web: Usando JavaScript, HTML e CSS",
+    "author": "MUELLER, J. P.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Laboratório de Desenvolvimento Web",
+    "title": "Descomplicando o Docker",
+    "author": "VITALINO, J. F. N; CASTRO, M. A. N.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Explorando o Arduino: Técnicas e ferramentas para mágicas de engenharia",
+    "author": "JEREMY, B.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "A Internet das Coisas",
+    "author": "MAGRANI, Eduardo",
+    "publisher": "FGV",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Redes de Sensores SemF",
+    "author": "SILVA, J. S.; SILVA, BOAVIDA, F.",
+    "publisher": "FCA",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Projetos de Automação Residencial com ESP8266: Aproveite a Potência Deste Minúsculo Chip Wi-Fi Para Construir Incríveis Projetos de Casas Inteligentes",
+    "author": "BATRINU, C.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Explorando o Arduino: Técnicas e ferramentas para mágicas de engenharia",
+    "author": "JEREMY, B.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython",
+    "author": "McKINNEY, W.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Arduino Básico",
+    "author": "MCROBERTS, M.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Internet das Coisas com ESP8266, Arduino e Raspberry Pi",
+    "author": "OLIVEIRA, S.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 4,
+    "course": "Internet das Coisas e Aplicações",
+    "title": "Projetos com Python e Arduino: Como Desenvolver Projetos Práticos de Eletrônica, Automação e IoT",
+    "author": "ZANETTI, H.A.P.; OLIVEIRA, C.L.V.",
+    "publisher": "Erica",
+    "year": 2020
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Android para Programadores",
+    "author": "DEITEL, H.; DEITEL, A.",
+    "publisher": "Bookman",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Desenvolvendo Para IPhone e IPad: Aprenda a Desenvolver Aplicativos Utilizando iOS SDK",
+    "author": "LECHETA, R. R.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Use a Cabeça! Desenvolvendo Para Android",
+    "author": "GRIFFITHS D.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Programando o Android",
+    "author": "MEDNIEKS, Z. et al.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Dominando o Android com Kotlin",
+    "author": "GLAUBER, N.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Google Android - aprenda a criar aplicações para dispositivos móveis com o Android SDK",
+    "author": "LECHETA, R. R.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Padrões de design para aplicativos móveis",
+    "author": "NEIL, T.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Use a Cabeça! - Desenvolvendo Para iPhone e iPad: O Guia Amigo do Seu Cérebro",
+    "author": "PILONE, D.; PILONE, T.",
+    "publisher": "Alta Books",
+    "year": 2013
+  },
+  {
+    "semester": 4,
+    "course": "Programação para Dispositivos Móveis I",
+    "title": "Segurança de aplicativos Android",
+    "author": "SIX, J.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Estatística Básica",
+    "author": "BUSSAB, W.O. e MORETTIN, P. A.",
+    "publisher": "Saraiva",
+    "year": 2013
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Data Science do Zero",
+    "author": "GRUS, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Noções de Probabilidade e Estatística",
+    "author": "MAGALHÃES, M. N. & LIMA, A. C. P.",
+    "publisher": "Edusp",
+    "year": 2010
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Introdução à Estatística: Atualização da Tecnologia",
+    "author": "TRIOLA, M. F.",
+    "publisher": "LTC",
+    "year": 2011
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Estatística Prática para Cientistas de Dados",
+    "author": "BRUCE, A., BRUCE, P.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Estatística Aplicada",
+    "author": "DOWNING, D. JEFFREY, Clark",
+    "publisher": "Saraiva",
+    "year": 2011
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Estatística Aplicada",
+    "author": "LARSON, R.; FARBER, B.",
+    "publisher": "Pearson",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Guia Mangá de Análise de Regressão",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Estatística Aplicada",
+    "title": "Guia Mangá de Estatística",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "UX Design: guia definitivo com as melhores práticas de UX",
+    "author": "GRANT, W.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "Design centrado no usuário: um guia para o desenvolvimento de aplicativos amigáveis",
+    "author": "LOWDERMILK, T.",
+    "publisher": "Novatec",
+    "year": 2013
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "Introdução e Boas Práticas em Ux Design",
+    "author": "TEIXEIRA, F.",
+    "publisher": "Casa do Código",
+    "year": 2014
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "Leis da Psicologia Aplicadas a UX: usando psicologia para projetar produtos e serviços melhores",
+    "author": "YABLONSKI, J.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "Mapeamento de Experiências: um guia para criar valor por meio de jornadas, blueprints e diagramas",
+    "author": "KALBACH, J.",
+    "publisher": "Altas Books",
+    "year": 2017
+  },
+  {
+    "semester": 4,
+    "course": "Experiência do Usuário",
+    "title": "Redação estratégica para UX: aumente engajamento, conversão e retenção com cada palavra",
+    "author": "PODMAJERSKEY, T.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "Business Result: Elementary. Student Book Pack",
+    "author": "HUGES, John et al.",
+    "publisher": "Oxford University Press",
+    "year": 2017
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "Business Start-up: Student Book 1",
+    "author": "IBBOTSON, Mark; STEPHENS, Bryan",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "American English File: Student’s Book 1",
+    "author": "OXENDEN, Clive; LATHAM-KOENIG, Christina",
+    "publisher": "Oxford University Press",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "Teaching English to Speakers of other languages",
+    "author": "CARTER, Ronald.; NUNAN, David",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "In Company 3.0 Elementary Level Student’s Book Pack",
+    "author": "CLARKE, Simon",
+    "publisher": "MacMillan Publishers Ltd",
+    "year": 2015
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom",
+    "author": "LONGMAN",
+    "publisher": "Pearson Education do Brasil",
+    "year": 2009
+  },
+  {
+    "semester": 4,
+    "course": "Inglês II",
+    "title": "Essential Grammar in Use CD-Rom with answers",
+    "author": "MURPHY, Raymond",
+    "publisher": "Cambridge",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Computação em Nuvem:Cloud Computing Tecnologias e Estratégias",
+    "author": "CHEE J. S. B.; JUNIOR FRANKLIN C.",
+    "publisher": "M. Books",
+    "year": 2013
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Cloud Computing: Nova Arquitetura de TI",
+    "author": "VERAS, Manoel",
+    "publisher": "Brasport",
+    "year": 2012
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Virtualização: Tecnologia Central do Datacenter",
+    "author": "VERAS, Manoel",
+    "publisher": "Brasport",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Amazon AWS: Descomplicando a computação na nuvem",
+    "author": "ANTUNES L. J.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "DevOps Nativo de Nuvem com Kubernetes: Como Construir, Implantar e Escalar Aplicações Modernas na Nuvem",
+    "author": "ARUNDEL J.; DOMINGUS J.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Cloud Computing: A inteligência na nuvem e seu novo valor em TI",
+    "author": "MOLINARI, L.",
+    "publisher": "Érica/Saraiva",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Computação em Nuvem I",
+    "title": "Cloud Computing - Computação em Nuvem: transportando o mundo da tecnologia da informação",
+    "author": "TAURION, Cesar",
+    "publisher": "Brasport",
+    "year": 2009
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina",
+    "author": "FACELI, K. et al.",
+    "publisher": "LTC",
+    "year": 2011
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Data Science do Zero",
+    "author": "GRUS, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Aprendizado de Máquina Para Leigos",
+    "author": "MUELLER, J. P., MASSARON, L.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina",
+    "author": "CARVALHO, A.",
+    "publisher": "LTC",
+    "year": 2011
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow",
+    "author": "GÉRON, A.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython",
+    "author": "MCKINNEY, W.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Python Para Data Science Para Leigos",
+    "author": "MUELLER, J. P., MASSARON, L.",
+    "publisher": "Alta Books",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Inteligencia Artificial",
+    "author": "NORVIG, P.",
+    "publisher": "LTC",
+    "year": 2013
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Guia Mangá de Análise de Regressão",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Aprendizagem de Máquina",
+    "title": "Guia Mangá de Estatística",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer",
+    "author": "GAD, A. F. M.",
+    "publisher": "Apress",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Dominando o Android com Kotlin",
+    "author": "GLAUBER, N.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "React Native for Mobile Development",
+    "author": "AKSHAT PAUL, ABHISHEK NALWAYA",
+    "publisher": "Apress",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "UX Design: guia definitivo com as melhores práticas de UX",
+    "author": "GRANT, W.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Aplicações mobile híbridas com Cordova e PhoneGap",
+    "author": "LOPES, S.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Padrões de design para aplicativos móveis",
+    "author": "NEIL, T.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Segurança de aplicativos Android",
+    "author": "SIX, J.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia",
+    "author": "CRUZ, F.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "React Native in Action Developing iOS and Android apps with JavaScript",
+    "author": "DABIT, NADER",
+    "publisher": "Manning Publications",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma",
+    "author": "ARAUJO, E. C.",
+    "publisher": "Casa do Código",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side!",
+    "author": "MARINHO, L. H.",
+    "publisher": "Casa do Código",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Laboratório de Desenvolvimento Móvel",
+    "title": "Desenvolvimento Profissional Multiplataforma para Smartphone",
+    "author": "SARAH. A.",
+    "publisher": "Alta Books",
+    "year": 2012
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Ionic 4: Desenvolvimento multiplataforma para dispositivos móveis",
+    "author": "ARAUJO, E. C.",
+    "publisher": "Casa do Código",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "React Native: Desenvolvimento de aplicativos mobile com React",
+    "author": "PINHO, D. M., ESCUDELARIO, B.",
+    "publisher": "Casa do Código",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Desenvolvimento Profissional Multiplataforma para Smartphone",
+    "author": "SARAH. A.",
+    "publisher": "Alta Books",
+    "year": 2012
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Cordova avançado e PhoneGap: Um guia detalhado do zero à publicação",
+    "author": "SOUZA, N.",
+    "publisher": "Casa do Código",
+    "year": 2018
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Flutter na Prática: Melhore seu Desenvolvimento Mobile com o SDK Open Source Mais Recente do Google",
+    "author": "ZAMMETTI, F.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "React Native for Mobile Development",
+    "author": "AKSHAT PAUL, ABHISHEK NALWAYA",
+    "publisher": "Apress",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma",
+    "author": "ARAUJO, E. C.",
+    "publisher": "Casa do Código",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "React Native in Action Developing iOS and Android apps with JavaScript",
+    "author": "DABIT, NADER",
+    "publisher": "Manning Publications",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer",
+    "author": "GAD, A. F. M.",
+    "publisher": "Apress",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Desenvolvimento de Aplicativos Móveis com Xamarin Fundamentos do Xamarin. Forms e da criação de códigos C# multiplataforma",
+    "author": "HARMES, D.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Aplicações mobile híbridas com Cordova e PhoneGap",
+    "author": "LOPES, S.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Programação para Dispositivos Móveis II",
+    "title": "Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side!",
+    "author": "MARINHO, L. H.",
+    "publisher": "Casa do Código",
+    "year": 2020
+  },
+  {
+    "semester": 5,
+    "course": "Segurança no Desenvolvimento de Aplicações",
+    "title": "Pentest em aplicações web",
+    "author": "MORENO D.",
+    "publisher": "Novatec",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Segurança no Desenvolvimento de Aplicações",
+    "title": "Segurança para desenvolvedores web",
+    "author": "MUELLER J. P.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Segurança no Desenvolvimento de Aplicações",
+    "title": "Black Hat Python: Programação Python Para Hackers e Pentesters",
+    "author": "SEITZ J.",
+    "publisher": "Novatec",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Segurança no Desenvolvimento de Aplicações",
+    "title": "Segurança em aplicações Web",
+    "author": "FERREIRA, Rodrigo",
+    "publisher": "Casa do Código",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Segurança no Desenvolvimento de Aplicações",
+    "title": "Testes de Invasão: Uma introdução prática ao hacking",
+    "author": "WEIDMAN G.",
+    "publisher": "Novatec",
+    "year": 2014
+  },
+  {
+    "semester": 5,
+    "course": "Fundamentos da Redação Técnica",
+    "title": "Língua Portuguesa: noções básicas para cursos superiores",
+    "author": "ANDRADE, M. M.; HENRIQUES, A.",
+    "publisher": "Atlas",
+    "year": 2009
+  },
+  {
+    "semester": 5,
+    "course": "Fundamentos da Redação Técnica",
+    "title": "Como escrever textos técnicos e profissionais",
+    "author": "DINTEL, F.",
+    "publisher": "Gutenberg",
+    "year": 2011
+  },
+  {
+    "semester": 5,
+    "course": "Fundamentos da Redação Técnica",
+    "title": "O texto sem mistério: leitura e escrita na universidade",
+    "author": "LOUZADA, M. S.; GOLDSTEIN, N. S.; IVAMOTO, R.",
+    "publisher": "Ática",
+    "year": 2018
+  },
+  {
+    "semester": 5,
+    "course": "Fundamentos da Redação Técnica",
+    "title": "Prática de Texto: para estudantes universitários",
+    "author": "FARACO, C. A.; TEZZA, C.",
+    "publisher": "Vozes",
+    "year": 2016
+  },
+  {
+    "semester": 5,
+    "course": "Fundamentos da Redação Técnica",
+    "title": "Produção Textual, Análise de Gêneros e Compreensão",
+    "author": "MARCUSCHI, L. A.",
+    "publisher": "Parábola Editorial",
+    "year": 2008
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "Business Result: Elementary. Student Book Pack",
+    "author": "HUGES, John et al.",
+    "publisher": "Oxford University Press",
+    "year": 2017
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "Business Start-up: Student Book 1",
+    "author": "IBBOTSON, Mark; STEPHENS, Bryan",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "American English File: Student’s Book 1",
+    "author": "OXENDEN, Clive; LATHAM-KOENIG, Christina",
+    "publisher": "Oxford University Press",
+    "year": 2018
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "Teaching English to Speakers of other languages",
+    "author": "CARTER, Ronald.; NUNAN, David",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "In Company 3.0 Elementary Level Student’s Book Pack",
+    "author": "CLARKE, Simon",
+    "publisher": "MacMillan Publishers Ltd",
+    "year": 2015
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom",
+    "author": "LONGMAN",
+    "publisher": "Pearson Education do Brasil",
+    "year": 2009
+  },
+  {
+    "semester": 5,
+    "course": "Inglês III",
+    "title": "Essential Grammar in Use CD-Rom with answers",
+    "author": "MURPHY, Raymond",
+    "publisher": "Cambridge",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "AWS para desenvolvedores",
+    "author": "LECHETA, Ricardo R.",
+    "publisher": "Novatec",
+    "year": 2014
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "Cloud Computing: A inteligência na nuvem e seu novo valor em TI",
+    "author": "MOLINARI, L.",
+    "publisher": "Érica/Saraiva",
+    "year": 2017
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "Cloud Computing. Computação em Nuvem: uma Abordagem Prática",
+    "author": "VELTE, A.",
+    "publisher": "Alta Books",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "DevOps Nativo de Nuvem com Kubernetes: Como Construir, Implantar e Escalar Aplicações Modernas na Nuvem",
+    "author": "ARUNDEL J.; DOMINGUS J.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "Architecting the Cloud:  Design Decisions for Cloud Computing Service Models (SaaS, PaaS  and  IaaS)",
+    "author": "KAVIS, Michael J.",
+    "publisher": "Wiley",
+    "year": 2014
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "Virtualization Essentials",
+    "author": "PORTNOY, M.",
+    "publisher": "Sybex",
+    "year": 2012
+  },
+  {
+    "semester": 6,
+    "course": "Computação em Nuvem II",
+    "title": "Beginning Serverless Computing: Developing with Amazon Web Services, Microsoft Azure, and Google Cloud",
+    "author": "STIGLER, M.",
+    "publisher": "Apress",
+    "year": 2017
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Para conhecer linguística computacional",
+    "author": "FERREIRA, M., LOPES, M.",
+    "publisher": "Contexto",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Construindo Chatbots com Python: Usando Natural Language Processing e Machine Learning",
+    "author": "RAJ, S.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Mineração de Dados da Web Social: Análise de dados do Facebook, Twitter, Linkedin e outros sites de mídia social",
+    "author": "RUSSEL, M.A.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow",
+    "author": "GÉRON, A.",
+    "publisher": "Alta Books",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Natural Language Processing in Action: Understanding, analyzing, and generating text with Python",
+    "author": "HOBSON, L., COLE, H., HANNES, H.",
+    "publisher": "Manning",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython",
+    "author": "MCKINNEY, W.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Python Para Data Science Para Leigos",
+    "author": "MUELLER, J. P., MASSARON, L.",
+    "publisher": "Alta Books",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Guia Mangá de Análise de Regressão",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Guia Mangá de Estatística",
+    "author": "TAKAHASHI, S., INOUE, I.",
+    "publisher": "Novatec",
+    "year": 2010
+  },
+  {
+    "semester": 6,
+    "course": "Processamento de Linguagem Natural",
+    "title": "Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems",
+    "author": "VAJJATA, S., MAJUMDER, B., GUPTA, A., SURANA, H.",
+    "publisher": "O'Reilly Media",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Programação web com Node e Express: Beneficiando-se da stack JavaScript",
+    "author": "BROWN, E.",
+    "publisher": "Novatec",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas",
+    "author": "DUCKETT, J.",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "UX Design: guia definitivo com as melhores práticas de UX",
+    "author": "GRANT, W.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "React Native in Action Developing iOS and Android apps with JavaScript",
+    "author": "DABIT, NADER",
+    "publisher": "Manning Publications",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia",
+    "author": "CRUZ, F.",
+    "publisher": "Brasport",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Aplicações mobile híbridas com Cordova e PhoneGap",
+    "author": "LOPES, S.",
+    "publisher": "Casa do Código",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Padrões de design para aplicativos móveis",
+    "author": "NEIL, T.",
+    "publisher": "Novatec",
+    "year": 2012
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Desenvolvimento Profissional Multiplataforma para Smartphone",
+    "author": "SARAH. A.",
+    "publisher": "Alta Books",
+    "year": 2012
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Sistemas Distribuídos: Conceitos e Projetos",
+    "author": "COULOURIS, G.",
+    "publisher": "Bookman",
+    "year": 2013
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "A Internet das Coisas",
+    "author": "MAGRANI, Eduardo",
+    "publisher": "FGV",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Segurança para desenvolvedores web",
+    "author": "MUELLER J. P.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Sistemas Distribuídos Princípios e Paradigmas",
+    "author": "TANENBAUM, A. S.",
+    "publisher": "Pearson",
+    "year": 2017
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Introdução ao SEO: Seu Guia Rápido às Práticas Eficientes de SEO",
+    "author": "SHENOY, A.; PRABHU A.",
+    "publisher": "Novatec",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Laboratório de Desenvolvimento Multiplataforma",
+    "title": "Git: Guia prático",
+    "author": "SILVERMAN, R. E.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Introdução à Mineração de Dados: Conceitos básicos, algoritmos e aplicações",
+    "author": "CASTRO, L.N. FERRARI, D.G.",
+    "publisher": "Saraiva",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Data Science do Zero",
+    "author": "GRUS, JOEL",
+    "publisher": "Alta Books",
+    "year": 2016
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Introdução ao Data Mining: Mineração de Dados",
+    "author": "KUMAR, V., STEINBACH, M., TAN, P.N.",
+    "publisher": "Ciência Moderna",
+    "year": 2009
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Mineração de Dados da Web Social: Análise de dados do Facebook, Twitter, LinkedIn e outros sites de mídia social",
+    "author": "RUSSELL, M.A.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Introdução ao Data Mining",
+    "author": "TAN, P.; STEINBACH, M; KUMAR, V.",
+    "publisher": "Ciência Moderna",
+    "year": 2009
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython",
+    "author": "MCKINNEY, W.",
+    "publisher": "Novatec",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Web Scraping com Python: Coletando mais dados da web moderna",
+    "author": "MITCHELL, R.",
+    "publisher": "Novatec",
+    "year": 2019
+  },
+  {
+    "semester": 6,
+    "course": "Mineração de Dados",
+    "title": "Introdução à Mineração de Dados: Com Aplicações em R",
+    "author": "SILVA, L. A; PERES, S. M., BOSCARIOLI C.",
+    "publisher": "Elsevier Brasil",
+    "year": 2017
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Teste e análise de software: processos, princípios e técnicas",
+    "author": "KOSCIANSKI, A.; PEZZE, M.; YOUNG, M.",
+    "publisher": "Bookman",
+    "year": 2008
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Introdução ao Teste de Software",
+    "author": "MALDONADO, J. C.; JINO, M.; DELAMARO, M. E.",
+    "publisher": "Campus/Elsevier",
+    "year": 2007
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Jornada Ágil de Qualidade: aplique técnicas de qualidade no início do ciclo para implantação contínua de software",
+    "author": "MUNIZ, Antonio et al.",
+    "publisher": "Brasport",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Testes automatizados de software: um guia prático",
+    "author": "ANICHE, Mauricio",
+    "publisher": "Casa do Código",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Automatização de teste de software com ferramentas de software livre",
+    "author": "MALDONADO, J. DELAMARO, M. VINCENZI, A.M. R.",
+    "publisher": "Gen LTC",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Qualidade e Testes de Software",
+    "title": "Qualidade de software",
+    "author": "SOARES, M. S.",
+    "publisher": "Novatec",
+    "year": 2007
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Propriedade intelectual: propriedade industrial, direito de autor, software, cultivares, nome empresarial",
+    "author": "SILVEIRA, N.",
+    "publisher": "Manole",
+    "year": 2011
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Direito Digital e processo eletrônico",
+    "author": "TEIXEIRA T.",
+    "publisher": "Saraiva",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Lei Geral de Proteção de Dados (LGPD): Guia de implantação",
+    "author": "GARCIA R. L. et al.",
+    "publisher": "Blucher",
+    "year": 2020
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Direito autoral: conceitos essenciais",
+    "author": "AFONSO, O.",
+    "publisher": "Manole",
+    "year": 2009
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Crimes digitais",
+    "author": "CRESPO, M. X. F.",
+    "publisher": "Saraiva",
+    "year": 2011
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Ética e direitos humanos: uma perspectiva profissional",
+    "author": "FELIZARDO, A. R.",
+    "publisher": "InterSaberes",
+    "year": 2012
+  },
+  {
+    "semester": 6,
+    "course": "Ética Profissional e Patente",
+    "title": "Direito de informática: comercialização e desenvolvimento internacional do software",
+    "author": "PAESANI, L. M.",
+    "publisher": "Atlas",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "Business Result: Elementary. Student Book Pack",
+    "author": "HUGES, John et al.",
+    "publisher": "Oxford University Press",
+    "year": 2017
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "Business Start-up: Student Book 1",
+    "author": "IBBOTSON, Mark; STEPHENS, Bryan",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "American English File: Student’s Book 1",
+    "author": "OXENDEN, Clive; LATHAM-KOENIG, Christina",
+    "publisher": "Oxford University Press",
+    "year": 2018
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "Teaching English to Speakers of other languages",
+    "author": "CARTER, Ronald.; NUNAN, David",
+    "publisher": "Cambridge University Press",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "In Company 3.0 Elementary Level Student’s Book Pack",
+    "author": "CLARKE, Simon",
+    "publisher": "MacMillan Publishers Ltd",
+    "year": 2015
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom",
+    "author": "LONGMAN",
+    "publisher": "Pearson Education do Brasil",
+    "year": 2009
+  },
+  {
+    "semester": 6,
+    "course": "Inglês IV",
+    "title": "Essential Grammar in Use CD-Rom with answers",
+    "author": "MURPHY, Raymond",
+    "publisher": "Cambridge",
+    "year": 2015
+  }
+]
